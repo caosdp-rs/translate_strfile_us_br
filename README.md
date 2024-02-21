@@ -1,10 +1,10 @@
-Tradutor de Legendas Automático
+# Tradutor de Legendas Automático
 Este projeto em Python oferece uma solução para tradução automática de legendas de vídeos. Ele utiliza a biblioteca googletrans para tradução e inclui funcionalidades como:
 
 Tradução de arquivos SRT de inglês para português.
 Introduz um delay aleatório entre cada linha traduzida para simular um processo mais natural.
 Exibe uma barra de progresso para acompanhar o status da tradução.
-Como Usar
+###### Como Usar
 Clone este repositório: git clone https://github.com/caosdp-rs/translate_strfile_us_br.git
 Instale as dependências: pip install -r requirements.txt
 Adicione seus arquivos SRT ao diretório de entrada.
